@@ -1,3 +1,3 @@
 # Tetris_with_Java
-- Run file src/tetris/Tetris.java to play
+- Run file Tetris-main/src/tetris/Tetris.java to play
 ---
